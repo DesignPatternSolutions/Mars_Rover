@@ -1,0 +1,15 @@
+/Users/Educational/C#/DesignPatterns/MarsRover/bin/Debug/net5.0/MarsRover.deps.json
+/Users/Educational/C#/DesignPatterns/MarsRover/bin/Debug/net5.0/MarsRover.runtimeconfig.json
+/Users/Educational/C#/DesignPatterns/MarsRover/bin/Debug/net5.0/MarsRover.runtimeconfig.dev.json
+/Users/Educational/C#/DesignPatterns/MarsRover/bin/Debug/net5.0/MarsRover.dll
+/Users/Educational/C#/DesignPatterns/MarsRover/bin/Debug/net5.0/ref/MarsRover.dll
+/Users/Educational/C#/DesignPatterns/MarsRover/bin/Debug/net5.0/MarsRover.pdb
+/Users/Educational/C#/DesignPatterns/MarsRover/obj/Debug/net5.0/MarsRover.csproj.AssemblyReference.cache
+/Users/Educational/C#/DesignPatterns/MarsRover/obj/Debug/net5.0/MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Educational/C#/DesignPatterns/MarsRover/obj/Debug/net5.0/MarsRover.AssemblyInfoInputs.cache
+/Users/Educational/C#/DesignPatterns/MarsRover/obj/Debug/net5.0/MarsRover.AssemblyInfo.cs
+/Users/Educational/C#/DesignPatterns/MarsRover/obj/Debug/net5.0/MarsRover.csproj.CoreCompileInputs.cache
+/Users/Educational/C#/DesignPatterns/MarsRover/obj/Debug/net5.0/MarsRover.dll
+/Users/Educational/C#/DesignPatterns/MarsRover/obj/Debug/net5.0/ref/MarsRover.dll
+/Users/Educational/C#/DesignPatterns/MarsRover/obj/Debug/net5.0/MarsRover.pdb
+/Users/Educational/C#/DesignPatterns/MarsRover/obj/Debug/net5.0/MarsRover.genruntimeconfig.cache

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Educational/C#/DesignPatterns/MarsRoverTest/MarsRoverTest.csproj": {}
+  },
+  "projects": {
+    "/Users/Educational/C#/DesignPatterns/MarsRover/MarsRover.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Educational/C#/DesignPatterns/MarsRover/MarsRover.csproj",
+        "projectName": "MarsRover",
+        "projectPath": "/Users/Educational/C#/DesignPatterns/MarsRover/MarsRover.csproj",
+        "packagesPath": "/Users/dhruvajyotidasgupta/.nuget/packages/",
+        "outputPath": "/Users/Educational/C#/DesignPatterns/MarsRover/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhruvajyotidasgupta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Educational/C#/DesignPatterns/MarsRoverTest/MarsRoverTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Educational/C#/DesignPatterns/MarsRoverTest/MarsRoverTest.csproj",
+        "projectName": "MarsRoverTest",
+        "projectPath": "/Users/Educational/C#/DesignPatterns/MarsRoverTest/MarsRoverTest.csproj",
+        "packagesPath": "/Users/dhruvajyotidasgupta/.nuget/packages/",
+        "outputPath": "/Users/Educational/C#/DesignPatterns/MarsRoverTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dhruvajyotidasgupta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Educational/C#/DesignPatterns/MarsRover/MarsRover.csproj": {
+                "projectPath": "/Users/Educational/C#/DesignPatterns/MarsRover/MarsRover.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
