@@ -1,5 +1,5 @@
 # Mars_Rover
-Mars Rover Command Solution in C#. I have used Command Design Pattern to encapsulate request send to Mars Rover. Built using .NET Framework 5.0 and Xunit Test Framework.
+Mars Rover Command Solution in C#. I have used Command Design Pattern to encapsulate requests send to Mars Rover. Built using .NET Framework 5.0 and Xunit Test Framework.
 
 Framework:
 
